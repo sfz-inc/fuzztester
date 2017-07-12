@@ -1,2 +1,2 @@
-# fuzztester
-my new project
+# spring-rest-seed
+an Atomist seed project
